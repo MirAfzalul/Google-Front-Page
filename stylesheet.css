@@ -1,0 +1,69 @@
+body{
+    background-color:#1f2124;
+    font-family: sans-serif;
+}
+.topnav{
+    color: grey;
+}.topnav-right{
+    float: right;
+    color: white;
+}
+.google-logo 
+{
+    margin-top:50px;
+  margin-bottom:20px;
+margin-left: 35%;
+ padding-bottom: 2%;
+  
+}
+.google-logo img{
+    height: 50%;
+    width: 50%;
+}
+.bar{
+    margin:0 auto;
+    width:575px;
+    border-radius:30px;
+    border:1px solid grey;
+    margin-left: 20%;
+}
+.bar:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+.searchbar{
+    height:45px;
+    border-radius:30px;
+    border:none;
+    width:500px;
+    font-size:14px;
+    outline: none;
+    background-color: #1f2124;
+    color: white;
+    padding-left:30.0px;
+    
+  }
+.voice{
+    height:20px;
+  position:relative;
+  top:5px;
+  left:5px;
+}
+.search-icon{
+    
+    height:20px;
+  position:relative;
+  top:5px;
+  right:94%;
+
+}
+li a {
+    color: #000;
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size:14px;
+  }
+li a:hover {
+    text-decoration: underline;
+  }
